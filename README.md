@@ -4,7 +4,7 @@ A simple web-based notes application built using **React** (frontend), **Spring 
 
 ## 📌 Features
 
-- User authentication (if implemented)
+- User authentication 
 - Add new notes
 - View existing notes
 - Edit notes
@@ -13,9 +13,9 @@ A simple web-based notes application built using **React** (frontend), **Spring 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Axios, Tailwind CSS (optional)
+- **Frontend**: React, Axios, Tailwind CSS 
 - **Backend**: Spring Boot (Java), Spring Web, Spring Data JPA
-- **Database**: MongoDB / MySQL / H2 (any one based on your config)
+- **Database**: MongoDB 
 
 ---
 
