@@ -22,6 +22,7 @@ A simple web-based notes application built using **React** (frontend), **Spring 
 ## 📂 Project Structure
 
 ### Frontend (React)
+```bash
 cd client 
 npm install 
 npm run dev
